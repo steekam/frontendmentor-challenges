@@ -1,0 +1,12 @@
+{
+  "name": "3-column-preview-card-component",
+  "version": "1.0.0",
+  "description": "Preview card component from frontendmentor.io challenges",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^2.1.5"
+  }
+}
